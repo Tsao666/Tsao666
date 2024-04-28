@@ -19,8 +19,8 @@ I specialize in AI algorithms and software development, actively contributing to
 
 [![AI Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)](https://skillicons.dev)
 <br>
-[![Web Skills](https://skillicons.dev/icons?i=vue,react,bootstrap,mongodb,androidstudio)](https://skillicons.dev)
+[![Web Skills](https://skillicons.dev/icons?i=vue,react,bootstrap,androidstudio,mongodb)](https://skillicons.dev)
 <br>
 [![Coding Skills](https://skillicons.dev/icons?i=py,java,js,ts,html,css)](https://skillicons.dev)
 <br>
-[![Dev Skills](https://skillicons.dev/icons?i=vscode,docker,git,ubuntu)](https://skillicons.dev)
+[![Dev Skills](https://skillicons.dev/icons?i=vscode,git,docker,ubuntu)](https://skillicons.dev)
